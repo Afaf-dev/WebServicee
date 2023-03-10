@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "projet-20914": {
+      "hosting": {
+        "webservice": [
+          "projet-20914"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "projet-20914"
+  }
+}
